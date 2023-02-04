@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1674030272 source:z:\c++2\s102\cartes\main-test.cpp
+	<string>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<cstdlib>
+	"carte.h"
+	"joueur.h"
+	"jeu.h"
+
+1674028757 source:z:\c++2\s102\cartes\main.cpp
+	<string>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<cstdlib>
+	"carte.h"
+	"joueur.h"
+	"jeu.h"
+
+1673426098 z:\c++2\s102\cartes\xxx.h
+	<string>
+	<vector>
+	<fstream>
+	<limits>
+
+1673965184 source:z:\c++2\s102\cartes\xxx.cpp
+	<string>
+	<iostream>
+	<stdexcept>
+	<vector>
+	<fstream>
+	<limits>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	"xxx.h"
+
+1674029058 source:z:\c++2\s102\cartes\carte.cpp
+	<string>
+	<iostream>
+	<stdexcept>
+	<vector>
+	<fstream>
+	<limits>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	"carte.h"
+	"joueur.h"
+	"jeu.h"
+
+1674029023 z:\c++2\s102\cartes\carte.h
+	<string>
+	<vector>
+	<fstream>
+	<limits>
+
+1674028275 z:\c++2\s102\cartes\joueur.h
+	<string>
+	<vector>
+	<fstream>
+	<limits>
+
+1673967224 z:\c++2\s102\cartes\jeu.h
+
+1674030252 source:z:\c++2\s102\cartes\jeu.cpp
+	<string>
+	<iostream>
+	<stdexcept>
+	<vector>
+	<fstream>
+	<limits>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	"carte.h"
+	"joueur.h"
+	"jeu.h"
+
+1674029158 source:z:\c++2\s102\cartes\joueur.cpp
+	<string>
+	<iostream>
+	<stdexcept>
+	<vector>
+	<fstream>
+	<limits>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	"carte.h"
+	"joueur.h"
+	"jeu.h"
+
